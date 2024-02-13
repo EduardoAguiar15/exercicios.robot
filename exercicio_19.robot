@@ -4,7 +4,7 @@
 Library    BuiltIn
 
 *** Variables ***
-${numero}    10
+${numero}    11
 
 *** Test Cases ***
 Verificar numero par ou impar
